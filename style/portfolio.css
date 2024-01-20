@@ -86,11 +86,8 @@ nav a {
 }
 
 
-.banner.profile-pic {
-
-    width: 600px;
-    padding: 10px;
-
+img.profile-pic {
+    width: 500px;
 }
 
 .banner-greeting {
